@@ -1,0 +1,1 @@
+Open tournament. py and click on run module then use vagrant vm and to the following: $ psql -- => create database tournament; -- => \c tournament -- => \i tournament.sql -- => \q -- $ python tournament_test.py
